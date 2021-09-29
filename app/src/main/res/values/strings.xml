@@ -1,12 +1,9 @@
 <resources>
     <string name="app_name">Bigmans Pizza Admin App</string>
-    <string name="button_add_categories_to_cake">Add Categories to Cake</string>
-    <string name="hint_item_name">Item Name</string>
+    <string name="button_add_categories_to_bakery_items">Add Categories to Bakery Items</string>
+    <string name="hint_item_name">Name</string>
     <string name="button_add_bakery_item">Add Item</string>
-    <string name="hint_item_price">Item Price</string>
-    <string-array name="bakeryItems">
-        <item>Cake</item>
-        <item>Mithai</item>
-        <item>Baverage</item>
-    </string-array>
+    <string name="hint_item_price">Price</string>
+    <string name="bakery_item">Bakery Item</string>
+    <string name="hint_item_description">Description</string>
 </resources>

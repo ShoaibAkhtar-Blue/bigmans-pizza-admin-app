@@ -34,6 +34,6 @@ public class HomeActivity extends AppCompatActivity {
      * Initialize views
      */
     private void initViews() {
-        addCategoriesToBakeryButton = findViewById(R.id.button_add_categories_to_cake);
+        addCategoriesToBakeryButton = findViewById(R.id.button_add_categories_to_bakery_items);
     }
 }
